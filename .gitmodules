@@ -1,0 +1,24 @@
+[submodule "backyard"]
+	path = backyard
+	url = ./backyard
+[submodule "closure"]
+	path = closure
+	url = ./closure
+[submodule "communicator"]
+	path = communicator
+	url = ./communicator
+[submodule "crater"]
+	path = crater
+	url = ./crater
+[submodule "flagship"]
+	path = flagship
+	url = ./flagship
+[submodule "hello_cargo"]
+	path = hello_cargo
+	url = ./hello_cargo
+[submodule "minigrep"]
+	path = minigrep
+	url = ./minigrep
+[submodule "restaurant"]
+	path = restaurant
+	url = ./restaurant
